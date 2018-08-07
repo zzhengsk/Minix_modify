@@ -1,3 +1,3 @@
-# ecs150_Minix_modify
+Minix_Operating_System_Modify
 
-These are the progamming assignments from the operating systems design class
+Modify the original operating system, including PM 
